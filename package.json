@@ -1,0 +1,23 @@
+{
+  "name": "furry-potato",
+  "version": "1.0.0",
+  "description": "wasm playground",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fwilhe2/furry-potato.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fwilhe2/furry-potato/issues"
+  },
+  "homepage": "https://github.com/fwilhe2/furry-potato#readme",
+  "devDependencies": {
+    "wabt": "^1.0.26"
+  }
+}
